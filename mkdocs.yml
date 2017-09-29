@@ -1,0 +1,22 @@
+site_name: site_name
+site_url: https://itviewer.github.io/mkdocs
+site_description: site_description
+site_author: site_author
+
+repo_name: itviewer/mkdocs
+repo_url: https://github.com/itviewer/mkdocs
+edit_uri: edit/master/
+
+pages:
+- Home: index.md
+
+markdown_extensions:
+    - meta
+    - toc
+    - tables
+    - fenced_code
+    - footnotes
+    - pymdownx.github
+
+# theme: material
+dev_addr: 127.0.0.1:80
