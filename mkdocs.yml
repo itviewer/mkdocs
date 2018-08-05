@@ -17,5 +17,13 @@ markdown_extensions:
     - fenced_code
     - footnotes
 
-# theme: material
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
+# pip install mkdocs-material
+#theme: 'material'
+
 # dev_addr: 127.0.0.1:80
