@@ -15,3 +15,10 @@ For more details please refer to http://www.mkdocs.org/
 ## Third Party Themes
 
 A list of third party themes can be found in the MkDocs [community wiki](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes).
+
+## Install
+
+```
+pip install mkdocs pymdown-extensions
+```
+
